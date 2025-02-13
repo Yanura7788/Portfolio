@@ -135,11 +135,11 @@ const Hero = () => {
           className="certificate"
         >
           <img src="/certificate.png" alt="" />
-          LMA CERTIFICED
+        
           <br />
           PROFESSIONAL
           <br />
-          UI DESIGNER
+          Full Stack Developer
         </motion.div>
         {/* CONTACT BUTTON */}
         <motion.a
