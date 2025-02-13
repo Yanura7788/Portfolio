@@ -57,9 +57,9 @@ const Hero = () => {
           animate="animate"
           className="awards"
         >
-          <motion.h2 variants={awardVariants}>Top Rated Designer</motion.h2>
+          <motion.h2 variants={awardVariants}>Full Stack Developer</motion.h2>
           <motion.p variants={awardVariants}>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            I specialize in delivering high-quality IT solutions tailored to your needs.
           </motion.p>
           <motion.div variants={awardVariants} className="awardList">
             <motion.img variants={awardVariants} src="/award1.png" alt="" />
