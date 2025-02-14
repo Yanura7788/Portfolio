@@ -173,7 +173,7 @@ const Hero = () => {
               </text>
 
               <text className="circleText">
-                <textPath startOffset="44%">
+                 <textPath href="https://drive.google.com/file/d/1bCv2bRvodsvUUoRALQwBmUi-ofZlIEDy/view?usp=sharing" startOffset="44%">
                   Contact Me •
                 </textPath>
               </text>
