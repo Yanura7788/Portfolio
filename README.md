@@ -30,7 +30,7 @@
 -->
 <h2> 🤳 Connect with me:</h2>
 <h2> My Portfolio Website</h2>
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>htmx</title><path d="M0 13.01v-2l7.09-2.98.58 1.94-5.1 2.05 5.16 2.05-.63 1.9Zm16.37 1.03 5.18-2-5.16-2.09.65-1.88L24 10.95v2.12L17 16zm-2.85-9.98H16l-5.47 15.88H8.05Z"/></svg>
+[<img align="left" alt="Xavierno Yanura Alexander | Website" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/htmx/2.0.4/htmx.min.js"/>][website]
 <a href="https://xaviernoyanura.vercel.app"> Go To Website </a>
 
 [<img align="left" alt="Xavierno Yanura Alexander | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
