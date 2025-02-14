@@ -161,7 +161,7 @@ const Hero = () => {
               ease: "linear",
             }}
           >
-            <svg viewBox="0 0 200 200" width="150" height="150">
+            <svg viewBox="0 0 200 200" width="100" height="100">
               <circle cx="100" cy="100" r="90" fill="pink" />
               <path
                 id="innerCirclePath"
@@ -169,12 +169,24 @@ const Hero = () => {
                 d="M 100,100 m -60,0 a 60,60 0 1,1 120,0 a 60,60 0 1,1 -120,0"
               />
               <text className="circleText">
-                <textPath href="#innerCirclePath">Hire Now •</textPath>
+                <textPath href="#innerCirclePath">Hire Me •</textPath>
               </text>
+
               <text className="circleText">
                 <textPath href="#innerCirclePath" startOffset="44%">
                   Contact Me •
                 </textPath>
+              </text>
+            </svg>
+            <svg viewBox="0 0 200 200" width="100" height="100">
+              <circle cx="100" cy="100" r="90" fill="pink" />
+              <path
+                id="innerCirclePath"
+                fill="none"
+                d="M 100,100 m -60,0 a 60,60 0 1,1 120,0 a 60,60 0 1,1 -120,0"
+              />
+              <text className="circleText">
+                <textPath href="https://drive.google.com/file/d/1bCv2bRvodsvUUoRALQwBmUi-ofZlIEDy/view?usp=sharing">Download My Resume •</textPath>
               </text>
             </svg>
             <div className="arrow">
