@@ -123,7 +123,7 @@ const Hero = () => {
             <img src="/youtube.png" alt="" />
           </motion.a>
           <motion.div variants={followVariants} className="followTextContainer">
-            <div className="followText">FOLLOW ME</div>
+            <div className="followText">Follow Me</div>
           </motion.div>
         </motion.div>
         {/* BUBBLE */}
