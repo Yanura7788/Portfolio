@@ -30,7 +30,8 @@
 -->
 <h2> 🤳 Connect with me:</h2>
 <h2> My Portfolio Website</h2>
-<button href="https://xaviernoyanura.vercel.app/"> Go To Website </button>
+[<img align="left" alt="Xavierno Yanura Alexander | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/htmx.svg" />][website]
+<a href="https://xaviernoyanura.vercel.app"> Go To Website </a>
 
 [<img align="left" alt="Xavierno Yanura Alexander | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Xavierno Yanura Alexander | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,8 +41,6 @@
 [instagram]: https://www.instagram.com/xaviernoyanura/
 [linkedin]: https://www.linkedin.com/in/xavierno-yanura-alexander-8859a4192/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
