@@ -30,7 +30,7 @@
 -->
 <h2> 🤳 Connect with me:</h2>
 <h2> My Portfolio Website</h2>
-[<img align="left" alt="Xavierno Yanura Alexander | Website" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/htmx/2.0.4/htmx.min.js"/>][website]
+
 <a href="https://xaviernoyanura.vercel.app"> Go To Website </a>
 
 [<img align="left" alt="Xavierno Yanura Alexander | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
