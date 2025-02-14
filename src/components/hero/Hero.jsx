@@ -142,7 +142,7 @@ const Hero = () => {
         </motion.div>
         {/* CONTACT BUTTON */}
         <motion.a
-          href="/#contact"
+          href="https://drive.google.com/file/d/1bCv2bRvodsvUUoRALQwBmUi-ofZlIEDy/view?usp=sharing"
           className="contactLink"
           animate={{
             x: [200, 0],
@@ -169,11 +169,11 @@ const Hero = () => {
                 d="M 100,100 m -60,0 a 60,60 0 1,1 120,0 a 60,60 0 1,1 -120,0"
               />
               <text className="circleText">
-                <textPath href="https://drive.google.com/file/d/1bCv2bRvodsvUUoRALQwBmUi-ofZlIEDy/view?usp=sharing">Hire Me •</textPath>
+                <textPath href="#innerCirclePath">Hire Me •</textPath>
               </text>
 
               <text className="circleText">
-                 <textPath href="https://drive.google.com/file/d/1bCv2bRvodsvUUoRALQwBmUi-ofZlIEDy/view?usp=sharing" startOffset="44%">
+                 <textPath href="#innerCirclePath" startOffset="44%">
                   Contact Me •
                 </textPath>
               </text>
