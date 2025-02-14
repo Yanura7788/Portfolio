@@ -132,9 +132,8 @@ const Hero = () => {
         <motion.div
           animate={{ opacity: [0, 1] }}
           transition={{ duration: 1 }}
-          className="certificate"
-        >
-          <img src="/certificate.png" alt="" />
+          className="certificate">
+          
         
           <br />
           PROFESSIONAL
