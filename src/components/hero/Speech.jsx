@@ -14,7 +14,7 @@ const Speech = () => {
             1000,
             "Same substring at the start will only be typed out once, initially",
             1000,
-            "Hello! My name is Xavierno Yanura Alexander, and I am a passionate web and game developer. With a strong background in both frontend and backend technologies",
+            " ",
             1000,
           ]}
           wrapper="span"
