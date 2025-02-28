@@ -14,7 +14,7 @@ const Speech = () => {
             1000,
             "Same substring at the start will only be typed out once, initially",
             1000,
-            "Iorim ",
+            "Lorem ipsum dolor sit amet lerinat consectetur adipisicing. ",
             1000,
           ]}
           wrapper="span"
