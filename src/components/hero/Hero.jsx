@@ -48,7 +48,7 @@ const Hero = () => {
         >
           Hey There,
           <br />
-          <span>I'm Robert!</span>
+          <span>I'm Xavierno Yanura Alexander</span>
         </motion.h1>
         {/* AWARDS */}
         <motion.div
@@ -57,9 +57,9 @@ const Hero = () => {
           animate="animate"
           className="awards"
         >
-          <motion.h2 variants={awardVariants}>Top Rated Designer</motion.h2>
+          <motion.h2 variants={awardVariants}>Full Stack Developer</motion.h2>
           <motion.p variants={awardVariants}>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            I specialize in delivering high-quality IT solutions tailored to your needs.
           </motion.p>
           <motion.div variants={awardVariants} className="awardList">
             <motion.img variants={awardVariants} src="/award1.png" alt="" />
@@ -123,7 +123,7 @@ const Hero = () => {
             <img src="/youtube.png" alt="" />
           </motion.a>
           <motion.div variants={followVariants} className="followTextContainer">
-            <div className="followText">FOLLOW ME</div>
+            <div className="followText">Follow Me</div>
           </motion.div>
         </motion.div>
         {/* BUBBLE */}
@@ -132,18 +132,17 @@ const Hero = () => {
         <motion.div
           animate={{ opacity: [0, 1] }}
           transition={{ duration: 1 }}
-          className="certificate"
-        >
-          <img src="/certificate.png" alt="" />
-          LMA CERTIFICED
+          className="certificate">
+          
+        
           <br />
           PROFESSIONAL
           <br />
-          UI DESIGNER
+          Full Stack Developer
         </motion.div>
         {/* CONTACT BUTTON */}
         <motion.a
-          href="/#contact"
+          href="https://drive.google.com/file/d/1bCv2bRvodsvUUoRALQwBmUi-ofZlIEDy/view?usp=sharing"
           className="contactLink"
           animate={{
             x: [200, 0],
@@ -170,10 +169,11 @@ const Hero = () => {
                 d="M 100,100 m -60,0 a 60,60 0 1,1 120,0 a 60,60 0 1,1 -120,0"
               />
               <text className="circleText">
-                <textPath href="#innerCirclePath">Hire Now •</textPath>
+                <textPath href="#innerCirclePath">Hire Me •</textPath>
               </text>
+
               <text className="circleText">
-                <textPath href="#innerCirclePath" startOffset="44%">
+                 <textPath href="#innerCirclePath" startOffset="44%">
                   Contact Me •
                 </textPath>
               </text>
@@ -203,7 +203,7 @@ const Hero = () => {
           </Suspense>
         </Canvas>
         <div className="hImg">
-          <img src="/hero.png" alt="" />
+          <img src="/yanura.png" alt="" />
         </div>
       </div>
     </div>
