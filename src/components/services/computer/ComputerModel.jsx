@@ -18,14 +18,6 @@ export function ComputerModel(props) {
         geometry={nodes.Object_4.geometry}
         material={materials.MacBookPro}
       />
-      <mesh
-          geometry={nodes.Object_7.geometry}
-          material={materials.MacBookPro}
-        />
-      <mesh
-          geometry={nodes.Object_9.geometry}
-          material={materials.MacBookPro}
-        />
     </group>
   );
 }
